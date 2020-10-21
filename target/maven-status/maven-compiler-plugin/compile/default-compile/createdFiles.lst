@@ -1,0 +1,10 @@
+com/alumniconnect/config/AlumniConnectApplication.class
+com/alumniconnect/service/FileService.class
+com/alumniconnect/service/MailService.class
+com/alumniconnect/controller/TestController.class
+com/alumniconnect/service/FileServiceImpl.class
+com/alumniconnect/service/MailServiceImpl.class
+com/alumniconnect/controller/AlumniConnectController.class
+com/alumniconnect/config/MailConfiguration.class
+com/alumniconnect/model/Mail.class
+com/alumniconnect/constants/NotificationConstants.class
