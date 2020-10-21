@@ -15,6 +15,7 @@
 
 # Maven
 log/
+/target/
 /*/target/
 
 # Log files
